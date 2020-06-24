@@ -2,7 +2,6 @@
 
 TAG= douglaslise/ansible-lint
 
-
 build:
 	docker build . -t $(TAG)
 
